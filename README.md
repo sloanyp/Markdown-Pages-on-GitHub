@@ -1,4 +1,4 @@
-# README
+# Markdown Cheat Sheet
 ## sub heading 
 learning the basics of GitHub and Markdown
 
