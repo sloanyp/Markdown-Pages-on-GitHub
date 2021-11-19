@@ -34,3 +34,5 @@ Adding a table
 | More | More | More |
 
 This is an example of *italics* and **BOLD** and ~~Strike Through~~
+
++ [Click Here to go to linked markdown page](link.md)
