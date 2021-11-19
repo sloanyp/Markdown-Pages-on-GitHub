@@ -33,4 +33,4 @@ Adding a table
 | Content | Content | Content |
 | More | More | More |
 
-This is an example of *italics* and **BOLD**
+This is an example of *italics* and **BOLD** and ~~Strike Through~~
